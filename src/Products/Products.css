@@ -10,7 +10,7 @@ body{
     
 }
 .product_item{
-    max-width: 20vw;
+    max-width: 150px;
     padding: 1em 4em;
     margin:1em;
     text-align: center;
