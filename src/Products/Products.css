@@ -8,8 +8,10 @@
 }
 .product_item{
     max-width: 20vw;
-    padding: 1em;
+    padding: 1em 4em;
+    margin:1em;
     text-align: center;
+    box-shadow: rgb(69, 60, 26) 0px 0px 20px, rgb(182 120 176 / 7%) 0px 0px 32px;
 }
 .product_item img {
     max-width: 100%;
