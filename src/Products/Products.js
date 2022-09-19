@@ -9,6 +9,7 @@ function Products() {
             <img alt="hoodie" src={hoodie} />
             <h3>hometown hoodie classic</h3>
             <h5>$34.99</h5>
+            <button>view details</button>
             <button>add to cart</button>
         </div>
        
