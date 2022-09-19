@@ -1,0 +1,12 @@
+.products_container{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.product_item{
+    max-width: 20vw;
+    border: 1px solid red;
+}
+.product_item img{
+    max-width: 100%;
+}
