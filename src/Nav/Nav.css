@@ -1,5 +1,8 @@
 .nav{
-    border:1px solid red;
     width:100vw;
     height: 5vh;
+}
+
+.nav_logo{
+    max-width: 24vw;
 }
