@@ -6,7 +6,18 @@
 .product_item{
     max-width: 20vw;
     border: 1px solid red;
+    padding: 1em;
+    text-align: center;
 }
-.product_item img{
+.product_item img {
     max-width: 100%;
+}
+.product_item h5{
+    color: white;
+}
+.product_item button{
+    background-color: transparent;
+    color: white;
+    border: 2px solid rgba(245, 199, 26, 0.7);
+    
 }
