@@ -33,3 +33,7 @@ body{
     font-size: 1em;
     min-width: 100%;
 }
+.product_item button:hover{
+    background-color: rgba(245, 199, 26, 0.2);
+    cursor: pointer;
+}
