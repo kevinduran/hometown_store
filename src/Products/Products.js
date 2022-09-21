@@ -1,16 +1,25 @@
 import React from 'react'
 import './Products.css'
 
-function Products() {
+function Products(productData) {
+    let myProductData= productData.productData;
+    
   return (
     <div className='products_container'>
-        <div className='product_item'>
-            <img alt="hoodie" src={hoodie} />
-            <h3>hometown hoodie</h3>
-            <h5>$34.99</h5>
-            <button>view details</button>
-            <button>add to cart</button>
-        </div>
+        
+        {myProductData.map((item)=>{
+            console.log(item.imageLink)
+            
+            return(
+            <div className='product_item' key={item.itemnum}>
+                <img alt='' src={item.imageLink} />
+                <h3>{item.itemName}</h3>
+                <h5>{item.price}</h5>
+                <button>view details</button>
+                <button>add to cart</button>
+            </div>
+            )
+        })}
     </div>
   )
 }
