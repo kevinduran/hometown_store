@@ -17,6 +17,11 @@ body{
     border-radius: 6.9%;
     box-shadow: rgb(69, 60, 26) 0px 0px 20px, rgb(182 120 176 / 6.9%) 5px 15px 32px;
 }
+.product_item:hover{
+    background-color: rgba(69, 60, 26,0.1); 
+    box-shadow: rgb(69, 60, 26) 0px 0px 25px, rgb(182 120 176 / 6.9%) 7px 16px 35px;
+
+}
 .product_item img {
     max-width: 100%;
 }
