@@ -12,7 +12,7 @@ function Products(productData) {
             
             return(
             <div className='product_item' key={item.itemnum}>
-                <img alt='' src={item.imageLink} />
+                <img alt='' src={`../assets/${item.imageLink}`} />
                 <h3>{item.itemName}</h3>
                 <h5>{item.price}</h5>
                 <button>view details</button>
