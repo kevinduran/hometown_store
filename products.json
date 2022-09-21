@@ -5,5 +5,27 @@
         "itemCategory":"sweaters",
         "price":34.99,
         "imageLink":"hoodie.png"
-    }
+    },
+    {
+        "itemnum":2,
+        "itemName":"hometown hoodie",
+        "itemCategory":"sweaters",
+        "price":34.99,
+        "imageLink":"hoodie.png"
+    },
+    {
+        "itemnum":3,
+        "itemName":"hometown hoodie",
+        "itemCategory":"sweaters",
+        "price":34.99,
+        "imageLink":"hoodie.png"
+    },
+    {
+        "itemnum":4,
+        "itemName":"hometown hoodie",
+        "itemCategory":"sweaters",
+        "price":34.99,
+        "imageLink":"hoodie.png"
+    },
+
 ]    
