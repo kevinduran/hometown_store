@@ -4,28 +4,70 @@
         "itemName":"hometown hoodie",
         "itemCategory":"sweaters",
         "price":34.99,
-        "imageLink":"/assets/hoodie.png"
+        "imageLink":"/assets/hoodie-red.png"
     },
     {
         "itemnum":2,
         "itemName":"hometown crewneck",
         "itemCategory":"sweaters",
         "price":30.99,
-        "imageLink":"/assets/hoodie.png"
+        "imageLink":"/assets/hoodie-black.png"
     },
     {
         "itemnum":3,
         "itemName":"hometown classic tee",
         "itemCategory":"sweaters",
         "price":24.99,
-        "imageLink":"/assets/hoodie.png"
+        "imageLink":"/assets/hoodie-neon.png"
     },
     {
         "itemnum":4,
         "itemName":"hometown fitted",
         "itemCategory":"sweaters",
         "price":29.99,
-        "imageLink":"/assets/hoodie.png"
+        "imageLink":"/assets/hoodie-plant.png"
+    },
+    {
+        "itemnum":4,
+        "itemName":"hometown fitted",
+        "itemCategory":"sweaters",
+        "price":29.99,
+        "imageLink":"/assets/hoodie-yellow.png"
+    },
+    {
+        "itemnum":4,
+        "itemName":"hometown fitted",
+        "itemCategory":"sweaters",
+        "price":29.99,
+        "imageLink":"/assets/shirt-cone.png"
+    },
+    {
+        "itemnum":4,
+        "itemName":"hometown fitted",
+        "itemCategory":"sweaters",
+        "price":29.99,
+        "imageLink":"/assets/shirt-fish.png"
+    },
+    {
+        "itemnum":4,
+        "itemName":"hometown fitted",
+        "itemCategory":"sweaters",
+        "price":29.99,
+        "imageLink":"/assets/shirt-owl.png"
+    },
+    {
+        "itemnum":4,
+        "itemName":"hometown fitted",
+        "itemCategory":"sweaters",
+        "price":29.99,
+        "imageLink":"/assets/shirt-white.png"
+    },
+    {
+        "itemnum":4,
+        "itemName":"hometown fitted",
+        "itemCategory":"sweaters",
+        "price":29.99,
+        "imageLink":"/assets/sweater-black.png"
     }
 
 ]    
