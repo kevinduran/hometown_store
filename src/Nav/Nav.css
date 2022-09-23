@@ -4,5 +4,7 @@
 }
 
 .nav_logo{
-    max-width: 24vw;
+    max-width: 200px;
+    width: 20vw;
+    min-width: 130px;
 }
