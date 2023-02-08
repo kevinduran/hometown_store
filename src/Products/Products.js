@@ -22,6 +22,7 @@ function Products(productData) {
     </div>
   )
 }
+
 export default Products
 
 
