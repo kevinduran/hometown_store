@@ -24,5 +24,3 @@ function Products(productData) {
 }
 
 export default Products
-
-
